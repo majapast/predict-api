@@ -19,4 +19,8 @@ def predict():
     })
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     app.run(host="0.0.0.0", port=8001)
+=======
+    app.run(host="0.0.0.0", port=8001)
+>>>>>>> 504461c (Updated app.py and Dockerfile with decision rule)
